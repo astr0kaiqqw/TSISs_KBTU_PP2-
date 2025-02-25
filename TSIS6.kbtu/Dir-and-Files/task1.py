@@ -10,5 +10,5 @@ def list_contents(path="."):
     print("\nВсе файлы и папки:")
     print(os.listdir(path))
 
-# Пример использования
-list_contents("C:/Users")  # Укажи путь вручную, если нужно
+
+list_contents("C:/Users")  
